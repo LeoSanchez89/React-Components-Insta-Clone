@@ -5,6 +5,7 @@ import CommentSection from "../CommentSection/CommentSectionContainer";
 import LikeSection from "./LikeSection";
 import PostHeader from "./PostHeader";
 
+
 import "./Posts.css";
 
 const Post = props => {
